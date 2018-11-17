@@ -6,3 +6,6 @@ matplotlib
 seaborn
 keras
 tf
+Flask
+gevent
+flask-cors
